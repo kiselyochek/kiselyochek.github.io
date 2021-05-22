@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Добро пожаловать на страницу нашей команды!
+Мы - команда "Кукуруза", четверо молодых разрабочиков с большими амбициями и желанием работать и обучаться новому! Хоть мы только недавно начали участвовать в конкурсах, мы стремимся к победе и получению новых знаний и опыта!
 
-You can use the [editor on GitHub](https://github.com/kiselyochek/kiselyochek.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Участники
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Anastasia](https://i.pinimg.com/originals/91/67/c9/9167c901f82cca2dae36b2979179a0e3.png)
 
-### Markdown
+# Анастасия Киселева
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Анастасия - выпускник Яндекс.Лицея, начинающий разрабочик с небольшим опытом в веб-разработке и гейм-деве. Основной язык программирования - Python, в будущем планирует развиваться в направлении искуственного интеллекта. 
 
-```markdown
-Syntax highlighted code block
+_ - Сколько себя помню, мне всегда было интересно, как устроен компьютер. Как работают программы, игры и прочее. Чуть позже я заинтересовалась темой ИИ - удивительно, на что способны технологии сегодня. Теперь, умея программировать на Python, я планирую развиваться в этом направлении и в будущем создать что-то полезное и инновационное._
 
-# Header 1
-## Header 2
-### Header 3
+# Черемисова Мария
 
-- Bulleted
-- List
+Мария - выпускник Яндекс.Лицея, начинающий разработчик с небольшим опытом в веб-разработке и работой с OpenCV. Основной язык программировния - Python. В будущем планирует развиваться в направлении микроэлектроники. 
 
-1. Numbered
-2. List
+_ - Мне интересно работать с железом и собирать электронику. Мой особенно запоминающийся опыт - запуск собственной ракеты в небо. В будущем я хочу разрабатывать микропроцессоры_
 
-**Bold** and _Italic_ and `Code` text
+# Ганжа Василий 
 
-[Link](vk.com) and ![Image](src)
-```
+Василий - выпускник Яндекс.Лицея, начинающий разработчик с небольшим опытом в веб-разработке и разработке десктопных приложений. Основной язык программирования - Python. В будущем планирует развиваться в веб-направлении.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+_ - В детстве никогда не интересовался компьютерами или чем-то подобным, но как только появилась возможность к этому прикоснуться - это была любовь с первого взгляда. Я буду очень счастлив, если в будущем смогу внести вклад в какой-нибудь инновационный проект."
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kiselyochek/kiselyochek.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
